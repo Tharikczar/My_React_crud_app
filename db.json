@@ -1,0 +1,152 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "email": "Mohamedtharik.b@coherent.in",
+      "name": "Mohamedtharik",
+      "contactNo": "9677691421",
+      "education": [
+        {
+          "educationType": "10",
+          "percentage": "77",
+          "passedOutYear": "2011"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "email": "tharikczar@gmail.in",
+      "name": "Mohamedtharik b",
+      "contactNo": "9677691421",
+      "education": [
+        {
+          "educationType": "10",
+          "percentage": "78",
+          "passedOutYear": "2017"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "email": "Karpagavalli.gm@gmail.com",
+      "name": "Karpagavalli",
+      "contactNo": "6776914210",
+      "education": [
+        {
+          "educationType": "12",
+          "percentage": "78",
+          "passedOutYear": "2017"
+        }
+      ]
+    },
+    {
+      "id": "538e",
+      "email": "Aqeeb@coherent.in",
+      "name": "Aqeeb",
+      "contactNo": "9876543212",
+      "education": [
+        {
+          "educationType": "12",
+          "percentage": "78",
+          "passedOutYear": "2022"
+        },
+        {
+          "educationType": "BE",
+          "passedOutYear": "2024",
+          "percentage": "88"
+        }
+      ]
+    },
+    {
+      "id": "6a4d",
+      "email": "hairin@coherent.in",
+      "name": "Hairin",
+      "contactNo": "9876543212",
+      "education": [
+        {
+          "educationType": "12",
+          "percentage": "78",
+          "passedOutYear": "2022"
+        }
+      ]
+    },
+    {
+      "id": "cce0",
+      "email": "thara@gmail.com",
+      "name": "thara",
+      "contactNo": "9788855643",
+      "education": [
+        {
+          "educationType": "UG",
+          "percentage": "89",
+          "passedOutYear": "2020"
+        }
+      ]
+    },
+    {
+      "id": "a743",
+      "email": "Sandeep",
+      "name": "dsfsdf",
+      "contactNo": "ddfsdfds",
+      "education": [
+        {
+          "educationType": "12",
+          "percentage": "33",
+          "passedOutYear": "2099"
+        }
+      ]
+    },
+    {
+      "id": "e2fd",
+      "email": "Sandeep",
+      "name": "dsfsdf",
+      "contactNo": "ddfsdfds",
+      "education": [
+        {
+          "educationType": "12",
+          "percentage": "33",
+          "passedOutYear": "2099"
+        }
+      ]
+    },
+    {
+      "id": "587b",
+      "email": "Sandeep",
+      "name": "dsfsdf",
+      "contactNo": "ddfsdfds",
+      "education": [
+        {
+          "educationType": "12",
+          "percentage": "33",
+          "passedOutYear": "2099"
+        }
+      ]
+    },
+    {
+      "id": "7f63",
+      "email": "Sandeep",
+      "name": "dsfsdf",
+      "contactNo": "ddfsdfds",
+      "education": [
+        {
+          "educationType": "12",
+          "percentage": "33",
+          "passedOutYear": "2099"
+        }
+      ]
+    },
+    {
+      "id": "ed06",
+      "email": "Sandeep",
+      "name": "dsfsdf",
+      "contactNo": "ddfsdfds",
+      "education": [
+        {
+          "educationType": "12",
+          "percentage": "33",
+          "passedOutYear": "2099"
+        }
+      ]
+    }
+  ]
+}
